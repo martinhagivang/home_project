@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Hagivang, home-project </title>
+<meta name="viewport" content="width=device-width,
+ minimum-scale=1.0, maximum-scale=1.0"/>
+<link href="style.css" type="text/css" rel="stylesheet">
+</head>
+
+<body>
+
+<div id="wrapper">
+	<header>
+		<div id="banner">
+			<img src="headerOnly.png" alt="banner" />
+		</div>
+	
+			<nav>
+				<li id="menu" style="display: none"> <a href="#" title="Menu">Menu</a></li>
+				<ul id="slideMenu">
+					<li><a href="#latest" title="Latest News">Latest News</a></li>
+					<li><a href="#market" title="Marketing">Marketing</a></li>
+					<li><a href="#cloud" title="Cloud">Cloud</a></li>
+					<li><a href="#tech" title="Technology">Technology</a></li>
+					<li><a href="#gadgets" title="Gadgets">Gadgets</a></li>
+				</ul>
+			</nav>
+
+	</header>
+	
+	<div id="wholeLine">
+		<section style="width: 100%">
+			<h2 class="accordion" id="latest"><a href='#'>Latest</a></h2>
+			<div class="container">
+				<div class="block" id="latestBlock">
+
+					
+				</div>
+			</div>
+		</section>
+	</div>
+	
+	<div id="extraWrap">
+	<section id="left">
+		<h2 class="accordion" id="market"><a href='#'>Marketing</a></h2>
+		<div class="container">
+			<div class="block" id="marketBlock">
+
+			</div>
+		</div>
+	</section>
+
+	<aside class="aSide">
+		<h2 class="accordion" id="cloud"><a href='#'>Cloud</a></h2>
+		<div class="container">
+			<div class="block" id="cloudBlock">
+
+			</div>
+		</div>
+	</aside>
+	</div>
+	
+
+	<section id="leftalso">
+		<h2 class="accordion" id="tech"><a href='#'> Technology </a></h2>
+			<div class="container">
+				<div class="block" id="techBlock">
+	
+				</div>
+			</div>
+	</section>
+		
+	<aside class="aSide">			
+		<h2 class="accordion" id="gadgets"><a href='#'> Gadgets </a></h2>
+			<div class="container">
+				<div class="block" id="gadgetsBlock">
+
+				</div>
+			</div>
+	</aside>
+
+</div>
+	
+<script src="js/jquery.js"> </script>
+<script src="js/script.js"> </script>
+<script src="js/xmlscript.js"> </script>
+<script type="text/javascript">
+function toggle_visibility() {
+	$('.menu').css('display', 'none');
+}
+ </script>
+ 
+<script type="text/javascript">
+  if ($(window).width() <= 475) {
+	$('#menu').css('display', 'block');
+}
+
+ $(window).resize(function() {
+  if ($(window).width() <= 475) {
+	$('#menu').css('display', 'block');
+	$('.latestDate').css('display', 'none');
+  }
+ else {
+	$('#menu').css('display', 'none');
+	$ ('#slideMenu').slideDown('slow');
+	$('.latestDate').css('display', 'block');
+ }
+});
+</script>
+
+<script type="text/javascript">
+$('#menu').click(function () {
+$ ('#slideMenu').slideToggle('slow');
+});
+</script>
+ 
+</body>
+</html>

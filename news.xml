@@ -1,0 +1,773 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+<lst name="responseHeader">
+  <int name="status">0</int>
+  <int name="QTime">1</int>
+  <lst name="params">
+    <str name="indent">true</str>
+    <str name="q">*:*</str>
+    <str name="wt">xml</str>
+    <str name="rows">20</str>
+  </lst>
+</lst>
+<result name="response" numFound="4514" start="0">
+  <doc>
+    <str name="author">timothy</str>
+    <str name="author_s">timothy</str>
+    <str name="title">French Gov't Runs Vast Electronic Spying Operation of Its Own</str>
+    <arr name="category">
+      <str>communications</str>
+    </arr>
+    <str name="slash-section">yro</str>
+    <str name="description">Freshly Exhumed writes with this news (quoting The Guardian): "France runs a vast electronic surveillance operation, intercepting and stocking data from citizens' phone and internet activity, using similar methods to the U.S. National Security Agency's Prism programme exposed by Edward Snowden, Le Monde has reported. An investigation by the French daily [en fran&amp;#231;ais; Google translation] found that the DGSE, France's external intelligence agency, had spied on the French public's phone calls, emails and internet activity. The agency intercepted signals from computers and phones in France as well as between France and other countries, looking not so much at content but to create a map of 'who is talking to whom,' the paper said."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt; &lt;a class="slashpop" href="http://twitter.com/home?status=French+Gov't+Runs+Vast+Electronic+Spying+Operation+of+Its+Own%3A+http%3A%2F%2Fbit.ly%2F1bahG1u"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt; &lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fyro.slashdot.org%2Fstory%2F13%2F07%2F04%2F1748220%2Ffrench-govt-runs-vast-electronic-spying-operation-of-its-own%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt; &lt;a class="nobg" href="http://plus.google.com/share?url=http://yro.slashdot.org/story/13/07/04/1748220/french-govt-runs-vast-electronic-spying-operation-of-its-own?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt; &lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://yro.slashdot.org/story/13/07/04/1748220/french-govt-runs-vast-electronic-spying-operation-of-its-own?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=3938107&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img width='1' height='1' src='http://slashdot.feedsportal.com/c/35028/f/647410/s/2e374eee/mf.gif' border='0'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/165665767387/u/49/f/647410/c/35028/s/2e374eee/a2.htm"&gt;&lt;img src="http://da.feedsportal.com/r/165665767387/u/49/f/647410/c/35028/s/2e374eee/a2.img" border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1" src="http://pi.feedsportal.com/r/165665767387/u/49/f/647410/c/35028/s/2e374eee/a2t.img" border="0"/&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/dMLqmWSFcHE" height="1" width="1"/&gt;</str>
+    <str name="slash-comments">23</str>
+    <str name="link">http://rss.slashdot.org/~r/Slashdot/slashdot/~3/dMLqmWSFcHE/story01.htm</str>
+    <str name="slash-department">but-it's-only-wafer-thin-metadata</str>
+    <date name="date">2013-07-04T15:06:00Z</date>
+    <long name="_version_">1439733898774839296</long></doc>
+  <doc>
+    <str name="author">timothy</str>
+    <str name="author_s">timothy</str>
+    <str name="title">France Gov't Runs Vast Electronic Spying Operation of Its Own</str>
+    <arr name="category">
+      <str>communications</str>
+    </arr>
+    <str name="slash-section">yro</str>
+    <str name="description">Freshly Exhumed writes with this news (quoting The Guardian): "France runs a vast electronic surveillance operation, intercepting and stocking data from citizens' phone and internet activity, using similar methods to the U.S. National Security Agency's Prism programme exposed by Edward Snowden, Le Monde has reported. An investigation by the French daily [en fran&amp;#231;ais; Google translation] found that the DGSE, France's external intelligence agency, had spied on the French public's phone calls, emails and internet activity. The agency intercepted signals from computers and phones in France as well as between France and other countries, looking not so much at content but to create a map of 'who is talking to whom,' the paper said."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt; &lt;a class="slashpop" href="http://twitter.com/home?status=France+Gov't+Runs+Vast+Electronic+Spying+Operation+of+Its+Own%3A+http%3A%2F%2Fbit.ly%2F1bahG1u"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt; &lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fyro.slashdot.org%2Fstory%2F13%2F07%2F04%2F1748220%2Ffrance-govt-runs-vast-electronic-spying-operation-of-its-own%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt; &lt;a class="nobg" href="http://plus.google.com/share?url=http://yro.slashdot.org/story/13/07/04/1748220/france-govt-runs-vast-electronic-spying-operation-of-its-own?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt; &lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://yro.slashdot.org/story/13/07/04/1748220/france-govt-runs-vast-electronic-spying-operation-of-its-own?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=3938107&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img width='1' height='1' src='http://slashdot.feedsportal.com/c/35028/f/647410/s/2e374a6a/mf.gif' border='0'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/165665767071/u/49/f/647410/c/35028/s/2e374a6a/a2.htm"&gt;&lt;img src="http://da.feedsportal.com/r/165665767071/u/49/f/647410/c/35028/s/2e374a6a/a2.img" border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1" src="http://pi.feedsportal.com/r/165665767071/u/49/f/647410/c/35028/s/2e374a6a/a2t.img" border="0"/&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/oC99cstLUnw" height="1" width="1"/&gt;</str>
+    <str name="slash-comments">4</str>
+    <str name="link">http://rss.slashdot.org/~r/Slashdot/slashdot/~3/oC99cstLUnw/story01.htm</str>
+    <str name="slash-department">but-it's-only-wafer-thin-metadata</str>
+    <date name="date">2013-07-04T15:06:00Z</date>
+    <long name="_version_">1439733898789519360</long></doc>
+  <doc>
+    <str name="author">timothy</str>
+    <str name="author_s">timothy</str>
+    <str name="title">State Dept. Bureau Spent $630k On Facebook 'Likes'</str>
+    <arr name="category">
+      <str>government</str>
+    </arr>
+    <str name="slash-section">yro</str>
+    <str name="description">schwit1 writes with this excerpt from the Washington Examiner: "State Department officials spent $630,000 to get more Facebook 'likes,' prompting employees to complain to a government watchdog that the bureau was 'buying fans' in social media, the agency's inspector general says. 'Many in the bureau criticize the advertising campaigns as "buying fans" who may have once clicked on an ad or "liked" a photo but have no real interest in the topic and have never engaged further,' the inspector general reported. The effort failed to reach the bureau's target audience, which is largely older and more influential than the people liking its pages. Only about 2 percent of fans actually engage with the pages by liking, sharing or commenting. In September 2012 Facebook also changed its approach to users' news feeds, and the expensive 'fan' campaigns became much less valuable. The bureau now must constantly pay for sponsored ads to keep its content visible even to people who have already liked its pages."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt; &lt;a class="slashpop" href="http://twitter.com/home?status=State+Dept.+Bureau+Spent+%24630k+On+Facebook+'Likes'%3A+http%3A%2F%2Fbit.ly%2F19WEsby"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt; &lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fyro.slashdot.org%2Fstory%2F13%2F07%2F04%2F1631210%2Fstate-dept-bureau-spent-630k-on-facebook-likes%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt; &lt;a class="nobg" href="http://plus.google.com/share?url=http://yro.slashdot.org/story/13/07/04/1631210/state-dept-bureau-spent-630k-on-facebook-likes?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt; &lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://yro.slashdot.org/story/13/07/04/1631210/state-dept-bureau-spent-630k-on-facebook-likes?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=3937955&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img width='1' height='1' src='http://slashdot.feedsportal.com/c/35028/f/647410/s/2e37068d/mf.gif' border='0'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/165666798975/u/49/f/647410/c/35028/s/2e37068d/a2.htm"&gt;&lt;img src="http://da.feedsportal.com/r/165666798975/u/49/f/647410/c/35028/s/2e37068d/a2.img" border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1" src="http://pi.feedsportal.com/r/165666798975/u/49/f/647410/c/35028/s/2e37068d/a2t.img" border="0"/&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/1aC22QnLBXg" height="1" width="1"/&gt;</str>
+    <str name="link">http://rss.slashdot.org/~r/Slashdot/slashdot/~3/1aC22QnLBXg/story01.htm</str>
+    <str name="slash-department">now-that-is-some-economic-stimulus-right-there</str>
+    <date name="date">2013-07-04T14:08:00Z</date>
+    <long name="_version_">1439733898794762240</long></doc>
+  <doc>
+    <str name="author">timothy</str>
+    <str name="author_s">timothy</str>
+    <str name="title">Anti-Government Hackers Hit Jay'Z's Android App</str>
+    <arr name="category">
+      <str>security</str>
+    </arr>
+    <str name="slash-section">it</str>
+    <str name="description">judgecorp writes "Jay-Z's Android app has been hit by hackers who created a clone of the software. The app was supposed to deliver a copy of the rapper's single and provide footage and other goodies. The rogue app is a ringer for the real one, but has a time-based trigger to deliver anti-Government propaganda on 4 July. The app, and its service name NSAListener, appears to suggest be a protest against U.S. surveillance."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt; &lt;a class="slashpop" href="http://twitter.com/home?status=Anti-Government+Hackers+Hit+Jay'Z's+Android+App%3A+http%3A%2F%2Fbit.ly%2F11k6r4O"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt; &lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fit.slashdot.org%2Fstory%2F13%2F07%2F04%2F168207%2Fanti-government-hackers-hit-jayzs-android-app%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt; &lt;a class="nobg" href="http://plus.google.com/share?url=http://it.slashdot.org/story/13/07/04/168207/anti-government-hackers-hit-jayzs-android-app?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt; &lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://it.slashdot.org/story/13/07/04/168207/anti-government-hackers-hit-jayzs-android-app?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=3937905&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img width='1' height='1' src='http://slashdot.feedsportal.com/c/35028/f/647410/s/2e368ca3/mf.gif' border='0'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/165666246065/u/49/f/647410/c/35028/s/2e368ca3/a2.htm"&gt;&lt;img src="http://da.feedsportal.com/r/165666246065/u/49/f/647410/c/35028/s/2e368ca3/a2.img" border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1" src="http://pi.feedsportal.com/r/165666246065/u/49/f/647410/c/35028/s/2e368ca3/a2t.img" border="0"/&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/KJFSgBcaa6s" height="1" width="1"/&gt;</str>
+    <str name="link">http://rss.slashdot.org/~r/Slashdot/slashdot/~3/KJFSgBcaa6s/story01.htm</str>
+    <str name="slash-department">maybe-they-just-like-jay-z-at-ft.-meade</str>
+    <date name="date">2013-07-04T13:10:00Z</date>
+    <long name="_version_">1439733898798956544</long></doc>
+  <doc>
+    <str name="author">timothy</str>
+    <str name="author_s">timothy</str>
+    <str name="title">Anti-Government Hackers Hit Jay-Z's Android App</str>
+    <arr name="category">
+      <str>security</str>
+    </arr>
+    <str name="slash-section">it</str>
+    <str name="description">judgecorp writes "Jay-Z's Android app has been hit by hackers who created a clone of the software. The app was supposed to deliver a copy of the rapper's single and provide footage and other goodies. The rogue app is a ringer for the real one, but has a time-based trigger to deliver anti-Government propaganda on 4 July. The app, and its service name NSAListener, appears to suggest be a protest against U.S. surveillance."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt; &lt;a class="slashpop" href="http://twitter.com/home?status=Anti-Government+Hackers+Hit+Jay-Z's+Android+App%3A+http%3A%2F%2Fbit.ly%2F11k6r4O"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt; &lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fit.slashdot.org%2Fstory%2F13%2F07%2F04%2F168207%2Fanti-government-hackers-hit-jay-zs-android-app%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt; &lt;a class="nobg" href="http://plus.google.com/share?url=http://it.slashdot.org/story/13/07/04/168207/anti-government-hackers-hit-jay-zs-android-app?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt; &lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://it.slashdot.org/story/13/07/04/168207/anti-government-hackers-hit-jay-zs-android-app?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=3937905&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img width='1' height='1' src='http://slashdot.feedsportal.com/c/35028/f/647410/s/2e367eef/mf.gif' border='0'/&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/_d_wKRkWgDg" height="1" width="1"/&gt;</str>
+    <str name="slash-comments">3</str>
+    <str name="link">http://rss.slashdot.org/~r/Slashdot/slashdot/~3/_d_wKRkWgDg/story01.htm</str>
+    <str name="slash-department">maybe-they-just-like-jay-z-at-ft.-meade</str>
+    <date name="date">2013-07-04T13:10:00Z</date>
+    <long name="_version_">1439733898803150848</long></doc>
+  <doc>
+    <str name="author">timothy</str>
+    <str name="author_s">timothy</str>
+    <str name="title">Theft-as-a-Service: Blocking the Cybercrime Market</str>
+    <arr name="category">
+      <str>security</str>
+    </arr>
+    <str name="slash-section">it</str>
+    <str name="description">Nerval's Lobster writes "The same layers of virtualization that have made networked business computing so much more convenient and useful have also given bad guys much easier access to both physical and virtual servers within previously-secure datacenters. A group of engineering researchers from MIT has demonstrated one approach to making secure servers harder to access using a physical system that prevents attackers from reading a server's memory-access patterns to figure out where and how data are stored. Ascend, which the group demonstrated at a meeting of the International Symposium on Computer Architecture in Tel Aviv in June (PDF), is designed to obscure both memory-access patterns and the length of time specific computations take to keep attackers from learning enough to compromise the server. The approach goes beyond simply encrypting everything on the whole server to try to shut off one of the most direct ways attackers can address the server directly &amp;mdash; whether the server is an air-gapped high-security machine sitting in an alarmed and guarded room at the NSA or a departmental server whose security settings are a little too loose. Other ways to try to obscure memory-access patterns were built as applications to run on the server. Ascend is the first time a hardware-only approach has been proposed, and the first to approach an acceptable level of performance, according to Srini Devadas, Edwin Sibley Webster Professor of Electrical Engineering and Computer Science, the MIT researcher who oversaw the team developing the hardware."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt; &lt;a class="slashpop" href="http://twitter.com/home?status=Theft-as-a-Service%3A+Blocking+the+Cybercrime+Market%3A+http%3A%2F%2Fbit.ly%2F125kvtP"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt; &lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fit.slashdot.org%2Fstory%2F13%2F07%2F04%2F1512214%2Ftheft-as-a-service-blocking-the-cybercrime-market%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt; &lt;a class="nobg" href="http://plus.google.com/share?url=http://it.slashdot.org/story/13/07/04/1512214/theft-as-a-service-blocking-the-cybercrime-market?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt; &lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://it.slashdot.org/story/13/07/04/1512214/theft-as-a-service-blocking-the-cybercrime-market?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=3937783&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img width='1' height='1' src='http://slashdot.feedsportal.com/c/35028/f/647410/s/2e35d0d8/mf.gif' border='0'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/165665762173/u/49/f/647410/c/35028/s/2e35d0d8/a2.htm"&gt;&lt;img src="http://da.feedsportal.com/r/165665762173/u/49/f/647410/c/35028/s/2e35d0d8/a2.img" border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1" src="http://pi.feedsportal.com/r/165665762173/u/49/f/647410/c/35028/s/2e35d0d8/a2t.img" border="0"/&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/1nM65QSsgE4" height="1" width="1"/&gt;</str>
+    <str name="link">http://rss.slashdot.org/~r/Slashdot/slashdot/~3/1nM65QSsgE4/story01.htm</str>
+    <str name="slash-department">disrupting-virtual-gait-analysis</str>
+    <date name="date">2013-07-04T12:13:00Z</date>
+    <long name="_version_">1439733898807345152</long></doc>
+  <doc>
+    <str name="author">timothy</str>
+    <str name="author_s">timothy</str>
+    <str name="title">Zynga Puts Random Stranger In Customer Support Role</str>
+    <arr name="category">
+      <str>humor</str>
+    </arr>
+    <str name="slash-section">entertainment</str>
+    <str name="description">An anonymous reader writes "A server error has meant that for the past few months, a man not associated in any way with social gaming powerhouse Zynga has been getting customer support emails. When Zynga failed to return his messages, he started replying to the customers himself. Hilariously." Sadly (though perhaps some of his correspondents would disagree), the glitch has now been fixed.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt; &lt;a class="slashpop" href="http://twitter.com/home?status=Zynga+Puts+Random+Stranger+In+Customer+Support+Role%3A+http%3A%2F%2Fbit.ly%2F18yfe5q"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt; &lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fentertainment.slashdot.org%2Fstory%2F13%2F07%2F04%2F1243233%2Fzynga-puts-random-stranger-in-customer-support-role%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt; &lt;a class="nobg" href="http://plus.google.com/share?url=http://entertainment.slashdot.org/story/13/07/04/1243233/zynga-puts-random-stranger-in-customer-support-role?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt; &lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://entertainment.slashdot.org/story/13/07/04/1243233/zynga-puts-random-stranger-in-customer-support-role?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=3937367&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img width='1' height='1' src='http://slashdot.feedsportal.com/c/35028/f/647410/s/2e3556e7/mf.gif' border='0'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/165665850266/u/49/f/647410/c/35028/s/2e3556e7/a2.htm"&gt;&lt;img src="http://da.feedsportal.com/r/165665850266/u/49/f/647410/c/35028/s/2e3556e7/a2.img" border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1" src="http://pi.feedsportal.com/r/165665850266/u/49/f/647410/c/35028/s/2e3556e7/a2t.img" border="0"/&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/PJ7fUytt9iw" height="1" width="1"/&gt;</str>
+    <str name="link">http://rss.slashdot.org/~r/Slashdot/slashdot/~3/PJ7fUytt9iw/story01.htm</str>
+    <str name="slash-department">have-you-tried-plugging-in-a-toaster-and-dancing?</str>
+    <date name="date">2013-07-04T11:10:00Z</date>
+    <long name="_version_">1439733898813636608</long></doc>
+  <doc>
+    <str name="author">timothy</str>
+    <str name="author_s">timothy</str>
+    <str name="title">EU To Vote On Suspension of Data Sharing With US</str>
+    <arr name="category">
+      <str>eu</str>
+    </arr>
+    <str name="slash-section">yro</str>
+    <str name="description">New submitter badzilla writes with a story from ZDnet that says a vote is scheduled in the European Parliament for today, U.S. Independence Day, on "whether existing data sharing agreements between the two continents should be suspended, following allegations that U.S. intelligence spied on EU citizens." One interesting scenario outlined by the article is that it may disrupt air travel between the U.S. and EU: "In the resolution, submitted to the Parliament on Tuesday, more than two-dozen politicians from a range of political parties call the spying 'a serious violation of the Vienna Convention on Diplomatic Relations,' and call on the suspension of the Passenger Name Records (PNR) system. Prior to leaving the airport, airlines must make passenger data available to the U.S. Names, dates of birth, addresses, credit or debit card details and seat numbers are among the data &amp;mdash; though critics say the information has never helped catch a suspected criminal or terrorist before. Should the PNR system be suspended, it could result in the suspension of flights to the U.S. from European member states."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt; &lt;a class="slashpop" href="http://twitter.com/home?status=EU+To+Vote+On+Suspension+of+Data+Sharing+With+US%3A+http%3A%2F%2Fbit.ly%2F1aFLmor"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt; &lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fyro.slashdot.org%2Fstory%2F13%2F07%2F04%2F1232206%2Feu-to-vote-on-suspension-of-data-sharing-with-us%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt; &lt;a class="nobg" href="http://plus.google.com/share?url=http://yro.slashdot.org/story/13/07/04/1232206/eu-to-vote-on-suspension-of-data-sharing-with-us?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt; &lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://yro.slashdot.org/story/13/07/04/1232206/eu-to-vote-on-suspension-of-data-sharing-with-us?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=3937305&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img width='1' height='1' src='http://slashdot.feedsportal.com/c/35028/f/647410/s/2e345c73/mf.gif' border='0'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/165665757759/u/49/f/647410/c/35028/s/2e345c73/a2.htm"&gt;&lt;img src="http://da.feedsportal.com/r/165665757759/u/49/f/647410/c/35028/s/2e345c73/a2.img" border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1" src="http://pi.feedsportal.com/r/165665757759/u/49/f/647410/c/35028/s/2e345c73/a2t.img" border="0"/&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/ji9OCIWiGBw" height="1" width="1"/&gt;</str>
+    <str name="slash-comments">2</str>
+    <str name="link">http://rss.slashdot.org/~r/Slashdot/slashdot/~3/ji9OCIWiGBw/story01.htm</str>
+    <str name="slash-department">but-we-thought-you-wanted-to-share</str>
+    <date name="date">2013-07-04T10:12:00Z</date>
+    <long name="_version_">1439733898824122368</long></doc>
+  <doc>
+    <str name="author">Jon Fingas</str>
+    <str name="author_s">Jon Fingas</str>
+    <str name="title">European Parliament votes to investigate US surveillance of EU residents</str>
+    <arr name="category">
+      <str>espionage</str>
+      <str>eu</str>
+      <str>europe</str>
+      <str>EuropeanParliament</str>
+      <str>europeanunion</str>
+      <str>intelligence</str>
+      <str>nsa</str>
+      <str>resolution</str>
+      <str>surveillance</str>
+      <str>us</str>
+    </arr>
+    <str name="source">Engadget RSS Feed</str>
+    <str name="description">
+
+&lt;p class="image-container" style="text-align: center;"&gt;&lt;a href="http://www.engadget.com/2013/07/04/european-parliament-votes-to-investigate-us-surveillance/?utm_source=Feed_Classic&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Engadget"&gt;&lt;img alt="European Parliament votes to investigate US surveillance, may suspend data agreements" data-src-height="340" data-src-width="620" src="http://www.blogcdn.com/www.engadget.com/media/2013/07/european-parliament-strasbourg-jlogan-wikipedia.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Not surprisingly, the &lt;a href="http://www.engadget.com/2013/04/10/eu-countries-to-allow-reuse-of-public-data/?utm_source=Feed_Classic&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Engadget"&gt;European Parliament&lt;/a&gt; isn't happy to hear that the NSA and other US agencies are allegedly &lt;a href="http://www.engadget.com/2013/06/21/court-documents-reveal-rules-allowing-nsa-to-use-us-data-without/?utm_source=Feed_Classic&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Engadget"&gt;snooping on communications&lt;/a&gt; in Europe and elsewhere. It isn't just complaining loudly, however -- the Parliament just voted 483-98 in favor of a resolution that will investigate US surveillance activities in Europe and report on their impact before the end of the year. The measure also asks EU officials to consider limiting the data they voluntarily provide to American authorities, such as shutting down programs that forward air passenger and bank records. There's nothing in the resolution that would immediately affect the EU-to-US communication pipeline, but that could change in half a year -- US intelligence outlets may not get their European information served on a silver platter for much longer.&lt;/p&gt;
+
+&lt;p&gt;[Image credit: JLogan, &lt;a href="http://en.wikipedia.org/wiki/File:EP_Strasbourg_hemicycle_l-gal.jpg"&gt;Wikipedia&lt;/a&gt;]&lt;/p&gt;
+&lt;p&gt;Filed under: &lt;a href="http://www.engadget.com/category/internet/?utm_source=Feed_Classic&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Engadget" rel="tag"&gt;Internet&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href="http://www.engadget.com/2013/07/04/european-parliament-votes-to-investigate-us-surveillance/?utm_source=Feed_Classic&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Engadget#comments"&gt;Comments&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Via:&lt;/strong&gt; &lt;a href="http://www.zdnet.com/eu-votes-to-support-suspending-u-s-data-sharing-agreements-including-passenger-flight-data-7000017677/" target="_blank"&gt;ZDNet&lt;/a&gt;&lt;!--//--&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; &lt;a href="http://www.europarl.europa.eu/news/en/pressroom/content/20130701IPR14770/html/Parliament-to-launch-in-depth-inquiry-into-US-surveillance-programmes" target="_blank"&gt;European Parliament&lt;/a&gt;&lt;!--//--&gt;&lt;/p&gt;
+
+</str>
+    <str name="link">http://www.engadget.com/2013/07/04/european-parliament-votes-to-investigate-us-surveillance/?utm_medium=feed&amp;utm_source=Feed_Classic&amp;utm_campaign=Engadget</str>
+    <str name="source-link">http://www.engadget.com</str>
+    <date name="date">2013-07-04T21:55:00Z</date>
+    <long name="_version_">1439733900491358208</long></doc>
+  <doc>
+    <str name="author">Steve Dent</str>
+    <str name="author_s">Steve Dent</str>
+    <str name="title">Samsung unveils 20-megapixel WB110 bridge camera with 26x optical zoom</str>
+    <arr name="category">
+      <str>20-megapixel</str>
+      <str>26x</str>
+      <str>720p</str>
+      <str>BridgeCamera</str>
+      <str>camera</str>
+      <str>samsung</str>
+      <str>superzoom</str>
+      <str>WB110</str>
+    </arr>
+    <str name="source">Engadget RSS Feed</str>
+    <str name="description">
+
+&lt;p class="image-container" style="text-align: center;"&gt;&lt;img alt="Samsung unveils 20megapixel WB110 bridge camera with 26x optical zoom" data-src-height="340" data-src-width="620" src="http://www.blogcdn.com/www.engadget.com/media/2013/07/samsung-wb110-2013-07-04-01.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;While its mostly been busy blurring the lines between &lt;a href="http://www.engadget.com/2013/06/12/samsung-galaxy-s-4-zoom-announced/?utm_source=Feed_Classic&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Engadget"&gt;smartphone&lt;/a&gt; and &lt;a href="http://www.engadget.com/2013/06/20/samsung-galaxy-nx-camera-hands-on/?utm_source=Feed_Classic&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Engadget"&gt;camera&lt;/a&gt; lately, Samsung's still churning out regular shooters as well. Case in point: it just launched the WB110, a 20-megapixel successor to &lt;a href="http://www.engadget.com/2012/06/29/samsung-brings-out-wb100-camera-with-26x-lens/?utm_source=Feed_Classic&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Engadget"&gt;last year's&lt;/a&gt; 16-megapixel model packing the same 26x optical zoom. That's far from superzooms like &lt;a href="http://www.engadget.com/2013/01/28/nikon-coolpix-p520-l820/?utm_source=Feed_Classic&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Engadget"&gt;Nikon's 42x P520&lt;/a&gt;, but Samsung's model does go a touch wider with a 35mm equivalent range of 22.3mm to 580mm. Other highlights include 720p AVC/H.264 video, 3,200 max ISO, Smart Auto mode to aid in tricky still and movie exposures, a pop-up flash and a 3-inch HVGA (480 x 360) display. None of those specs will set the world on fire, so hopefully the price won't burn your wallet once Samsung gets around to announcing it. There's no date for availability either, but the rest of the story's in the PR after the break. &lt;div class="postgallery"&gt;&lt;p&gt;&lt;strong&gt;Gallery: &lt;a href="http://www.engadget.com/photos/samsung-wb110-bridge-camera-0/?utm_source=Feed_Classic&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Engadget"&gt;Samsung WB110 Bridge Camera&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&lt;a href="http://www.engadget.com/photos/samsung-wb110-bridge-camera-0/6010944?utm_source=Feed_Classic&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Engadget"&gt;&lt;img src="http://www.blogcdn.com/www.engadget.com/media/2013/07/wb110-black-1-samsung-1372934899_thumbnail.jpg" alt="" title="" /&gt;&lt;/a&gt;&lt;a href="http://www.engadget.com/photos/samsung-wb110-bridge-camera-0/6010945?utm_source=Feed_Classic&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Engadget"&gt;&lt;img src="http://www.blogcdn.com/www.engadget.com/media/2013/07/wb110-black-2-samsung-1372934901_thumbnail.jpg" alt="" title="" /&gt;&lt;/a&gt;&lt;a href="http://www.engadget.com/photos/samsung-wb110-bridge-camera-0/6010946?utm_source=Feed_Classic&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Engadget"&gt;&lt;img src="http://www.blogcdn.com/www.engadget.com/media/2013/07/wb110-black-3-samsung-1372934902_thumbnail.jpg" alt="" title="" /&gt;&lt;/a&gt;&lt;a href="http://www.engadget.com/photos/samsung-wb110-bridge-camera-0/6010947?utm_source=Feed_Classic&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Engadget"&gt;&lt;img src="http://www.blogcdn.com/www.engadget.com/media/2013/07/wb110-black-4-samsung-1372934903_thumbnail.jpg" alt="" title="" /&gt;&lt;/a&gt;&lt;a href="http://www.engadget.com/photos/samsung-wb110-bridge-camera-0/6010948?utm_source=Feed_Classic&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Engadget"&gt;&lt;img src="http://www.blogcdn.com/www.engadget.com/media/2013/07/wb110-black-5-samsung-1372934904_thumbnail.jpg" alt="" title="" /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;Filed under: &lt;a href="http://www.engadget.com/category/cameras/?utm_source=Feed_Classic&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Engadget" rel="tag"&gt;Cameras&lt;/a&gt;, &lt;a href="http://www.engadget.com/category/samsung/?utm_source=Feed_Classic&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Engadget" rel="tag"&gt;Samsung&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href="http://www.engadget.com/2013/07/04/samsung-20-megapixel-wb110-bridge-camera-26x-zoom/?utm_source=Feed_Classic&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Engadget#comments"&gt;Comments&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+
+
+</str>
+    <str name="link">http://www.engadget.com/2013/07/04/samsung-20-megapixel-wb110-bridge-camera-26x-zoom/?utm_medium=feed&amp;utm_source=Feed_Classic&amp;utm_campaign=Engadget</str>
+    <str name="source-link">http://www.engadget.com</str>
+    <date name="date">2013-07-04T21:02:00Z</date>
+    <long name="_version_">1439733900494503936</long></doc>
+  <doc>
+    <str name="author">Brad Hill</str>
+    <str name="author_s">Brad Hill</str>
+    <str name="title">Editorial: High Fidelity Pure Audio starting a noble but losing battle</str>
+    <arr name="category">
+      <str>Blu-ray</str>
+      <str>Blu-ray Disc</str>
+      <str>bradhill</str>
+      <str>editorial</str>
+      <str>High Fidelity Pure Audio</str>
+      <str>Universal Music Group</str>
+    </arr>
+    <str name="source">Engadget RSS Feed</str>
+    <str name="description">
+
+&lt;p class="image-container" style="text-align: center;"&gt;&lt;a href="http://www.engadget.com/2013/07/04/high-fidelity-pure-audio/?utm_source=Feed_Classic&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Engadget"&gt;&lt;img alt="Editorial High Fidelity Pure Audio starting a noble but losing battle" data-src-height="340" data-src-width="620" src="http://www.blogcdn.com/www.engadget.com/media/2013/07/lead-1372964173.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The announcement is wrapped in an aura of d&amp;eacute;j&amp;agrave; vu: Universal Music Group is marketing an uncompressed, high-end digital audio format for Blu-ray called High Fidelity Pure Audio (HFPA). Where standard CD audio is 44.1KHz at 16 bits, HFPA's A2D sampling rate clocks in at a sky-high 96KHz at 24 bits.&lt;/p&gt;
+
+&lt;p&gt;Analog elitists will maintain that even extremely refined sampling is inherently inferior to capturing unchopped waveforms, and while that argument is fun to test, it is academic in the context of wide consumer adoption. Can a new audiophile format gain traction in a technomusical world governed by convenience and mobility?&lt;/p&gt;
+&lt;p&gt;Filed under: &lt;a href="http://www.engadget.com/category/misc/?utm_source=Feed_Classic&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Engadget" rel="tag"&gt;Misc&lt;/a&gt;, &lt;a href="http://www.engadget.com/category/software/?utm_source=Feed_Classic&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Engadget" rel="tag"&gt;Software&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href="http://www.engadget.com/2013/07/04/high-fidelity-pure-audio/?utm_source=Feed_Classic&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Engadget#comments"&gt;Comments&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+
+
+</str>
+    <str name="link">http://www.engadget.com/2013/07/04/high-fidelity-pure-audio/?utm_medium=feed&amp;utm_source=Feed_Classic&amp;utm_campaign=Engadget</str>
+    <str name="source-link">http://www.engadget.com</str>
+    <date name="date">2013-07-04T20:00:00Z</date>
+    <long name="_version_">1439733900497649664</long></doc>
+  <doc>
+    <str name="author">Jon Fingas</str>
+    <str name="author_s">Jon Fingas</str>
+    <str name="title">Dell mulls entry into wearable tech, says tablet sales aren't so hot</str>
+    <arr name="category">
+      <str>dell</str>
+      <str>latitude10</str>
+      <str>microsoft</str>
+      <str>sales</str>
+      <str>SmartWatch</str>
+      <str>tablet</str>
+      <str>wearable</str>
+      <str>windows</str>
+      <str>windows8</str>
+      <str>windowsrt</str>
+      <str>xps10</str>
+    </arr>
+    <str name="source">Engadget RSS Feed</str>
+    <str name="description">
+
+&lt;p class="image-container" style="text-align: center;"&gt;&lt;a href="http://www.engadget.com/2013/07/04/dell-mulls-entry-into-wearable-tech-says-tablet-sales-low/?utm_source=Feed_Classic&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Engadget"&gt;&lt;img alt="Dell XPS 10" src="http://www.blogcdn.com/www.engadget.com/media/2013/05/xps10.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Wearable technology is &lt;a href="http://www.engadget.com/2013/06/27/wsj-google-android-game-console/?utm_source=Feed_Classic&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Engadget"&gt;all the&lt;/a&gt; &lt;a href="http://www.engadget.com/2013/02/10/nyt-apple-experimenting-with-wrist-worn-ios-devices-using-curved-glass/?utm_source=Feed_Classic&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Engadget"&gt;rage&lt;/a&gt; &lt;a href="http://www.engadget.com/2013/03/19/samsung-vp-confirms-work-on-a-watch-among-other-future-products/?utm_source=Feed_Classic&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Engadget"&gt;these days&lt;/a&gt;, and Dell isn't immune to the peer pressure: its global VP of personal computing, Sam Burd, tells the &lt;em&gt;Guardian&lt;/em&gt; that his company is "exploring ideas" in the field. While it's not clear just how serious plans would be at this stage, Burd notes that the idea of a Dell smartwatch is alluring. He can't champion his firm's tablet sales, however. Dell has reportedly sold just "hundreds of thousands" of Windows 8 and RT slates like the &lt;a href="http://www.engadget.com/2013/03/22/dell-latitude-10-review/?utm_source=Feed_Classic&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Engadget"&gt;Latitude 10&lt;/a&gt; and &lt;a href="http://www.engadget.com/2013/05/15/dell-xps-10-price-cut/?utm_source=Feed_Classic&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Engadget"&gt;XPS 10&lt;/a&gt;. The executive predicts a sales boost as corporate customers adapt to Windows' new interface, but he's cautious -- he believes that the young platform &lt;a href="http://www.engadget.com/2013/05/01/idc-tablet-share-q1-2013/?utm_source=Feed_Classic&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Engadget"&gt;has to grow&lt;/a&gt; before clients (and rivals) take notice.&lt;/p&gt;
+&lt;p&gt;Filed under: &lt;a href="http://www.engadget.com/category/tablets/?utm_source=Feed_Classic&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Engadget" rel="tag"&gt;Tablets&lt;/a&gt;, &lt;a href="http://www.engadget.com/category/wearables/?utm_source=Feed_Classic&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Engadget" rel="tag"&gt;Wearables&lt;/a&gt;, &lt;a href="http://www.engadget.com/category/microsoft/?utm_source=Feed_Classic&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Engadget" rel="tag"&gt;Microsoft&lt;/a&gt;, &lt;a href="http://www.engadget.com/category/dell/?utm_source=Feed_Classic&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Engadget" rel="tag"&gt;Dell&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href="http://www.engadget.com/2013/07/04/dell-mulls-entry-into-wearable-tech-says-tablet-sales-low/?utm_source=Feed_Classic&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Engadget#comments"&gt;Comments&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Via:&lt;/strong&gt; &lt;a href="http://www.slashgear.com/dell-smartwatch-hinted-as-company-invests-in-wearable-rd-04289096/" target="_blank"&gt;SlashGear&lt;/a&gt;&lt;!--//--&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; &lt;a href="http://www.guardian.co.uk/technology/2013/jul/04/dell-wearable-computing-pc-business" target="_blank"&gt;The Guardian&lt;/a&gt;&lt;!--//--&gt;&lt;/p&gt;
+
+</str>
+    <str name="link">http://www.engadget.com/2013/07/04/dell-mulls-entry-into-wearable-tech-says-tablet-sales-low/?utm_medium=feed&amp;utm_source=Feed_Classic&amp;utm_campaign=Engadget</str>
+    <str name="source-link">http://www.engadget.com</str>
+    <date name="date">2013-07-04T19:02:00Z</date>
+    <long name="_version_">1439733900499746816</long></doc>
+  <doc>
+    <str name="author">Brian Heater</str>
+    <str name="author_s">Brian Heater</str>
+    <str name="title">Programming is FUNdamental: A closer look at Code.org's star-studded computer science campaign</str>
+    <arr name="category">
+      <str>Ali Partovi</str>
+      <str>AliPartovi</str>
+      <str>code.org</str>
+      <str>coding</str>
+      <str>computer science</str>
+      <str>ComputerScience</str>
+      <str>education</str>
+      <str>Made in the USA</str>
+      <str>MadeInTheUsa</str>
+      <str>programming</str>
+      <str>STEM</str>
+      <str>STEM education</str>
+      <str>StemEducation</str>
+    </arr>
+    <str name="source">Engadget RSS Feed</str>
+    <str name="description">
+
+&lt;h3 style="text-align: center;"&gt;&lt;a href="http://www.engadget.com/2013/07/04/programming-is-fundamental-code-org/?utm_source=Feed_Classic&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Engadget"&gt;&lt;img alt="Codeorg's starstudded computer science campaign" data-src-height="347" data-src-width="619" src="http://www.blogcdn.com/www.engadget.com/media/2013/06/code-org2013-06-2811-48-02600.jpg" /&gt;&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;"All these people who've made it big have their own variation of the same story, where they felt lucky to be exposed to computer programming at the right age, and it bloomed into something that changed their life," explains the organization's co-founder, Ali Partovi, seated in the conference room of one of the many successful startups he's helped along the way. The Iranian-born serial entrepreneur has played a role in an impressive list of companies, including the likes of Indiegogo, Zappos and Dropbox. Along with his twin brother, Hadi, he also co-founded music-sharing service iLike.&lt;/p&gt;
+
+&lt;p&gt;Unlike past offerings from the brothers, &lt;a href="http://www.engadget.com/2013/02/27/gates-zuck-and-crew-entice-kids-into-programming/?utm_source=Feed_Classic&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Engadget"&gt;Code.org&lt;/a&gt; is a decidedly non-commercial entity, one aimed at making computer science and programming every bit as essential to early education as science or math. For the moment, the organization is assessing just how to go about changing the world. The site currently offers a number of resources for bootstrappers looking to get started in the world of coding. There are simple modules from Scratch, Codecademy, Khan Academy and others, which can help users tap into the buzz of coding their first rectangle, along with links to apps and online tutorials. The organization is also working to build a comprehensive database of schools offering computer science courses and soliciting coders interested in teaching.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="www.engadget.com/2013/07/01/made-in-the-USA/?utm_source=Feed_Classic&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Engadget"&gt;&lt;img alt="Programming is FUNdamental A closer look at Codeorg's starstudded computer science campaign" data-src-height="44" data-src-width="620" src="http://www.blogcdn.com/www.engadget.com/media/2013/06/engadgetmadeusabanner-1372458472.gif" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Filed under: &lt;a href="http://www.engadget.com/category/internet/?utm_source=Feed_Classic&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Engadget" rel="tag"&gt;Internet&lt;/a&gt;, &lt;a href="http://www.engadget.com/category/software/?utm_source=Feed_Classic&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Engadget" rel="tag"&gt;Software&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href="http://www.engadget.com/2013/07/04/programming-is-fundamental-code-org/?utm_source=Feed_Classic&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Engadget#comments"&gt;Comments&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+
+
+</str>
+    <str name="link">http://www.engadget.com/2013/07/04/programming-is-fundamental-code-org/?utm_medium=feed&amp;utm_source=Feed_Classic&amp;utm_campaign=Engadget</str>
+    <str name="source-link">http://www.engadget.com</str>
+    <date name="date">2013-07-04T18:00:00Z</date>
+    <long name="_version_">1439733900502892544</long></doc>
+  <doc>
+    <str name="author">Rebecca Grant</str>
+    <str name="author_s">Rebecca Grant</str>
+    <str name="title">These chillin’ and grillin’ robots make July 4 BBQs more awesome</str>
+    <arr name="category">
+      <str>Gadgets</str>
+      <str>OffBeat</str>
+      <str>bbq</str>
+      <str>featured</str>
+      <str>grill</str>
+    </arr>
+    <str name="source">VentureBeat</str>
+    <arr name="source-desc">
+      <str>News About Tech, Money and Innovation</str>
+    </arr>
+    <str name="description">&lt;div class="post-boilerplate boilerplate-before"&gt;&lt;div class="event-boilerplate-mobilebeat"&gt;
+&lt;div class="logo-date-wrap"&gt;
+
+&lt;a href="http://mobilebeat2013.com" data-vb-ga-outbound="MB2013boilerplateTOP"&gt;&lt;img alt="MobileBeat 2013" src="http://venturebeat.files.wordpress.com/2013/02/mobilebeat-boilerplate.png" /&gt;&lt;/a&gt;
+&lt;div class="date-location"&gt;&lt;strong&gt;July 9-10, 2013&lt;/strong&gt;&lt;br /&gt;
+San Francisco, CA&lt;/div&gt;
+&lt;/div&gt;
+&lt;a class="cta" href="http://mobilebeat2013-MB2013boilerplateTOP.eventbrite.com/" data-vb-ga-outbound="MB2013boilerplateTOP"&gt;Tickets On Sale Now&lt;/a&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;p&gt;Fourth of July barbecues are an American tradition that kick off the summer grilling season. Few things are sweeter than relaxing in the sunshine with a cold beer, surrounded by family, friends, and the aroma of roasting meat. But balancing the demands of cooking meat over flame with the desire to relax with loved ones can wear some down.&lt;/p&gt;
+&lt;p&gt;Fortunately in this day and age, technology can solve these problems. Robots, drones, and mobile machines are here to put your mind and body at easy this Fourth of July. God Bless America. And robots.&lt;/p&gt;
+&lt;h3&gt;&lt;b&gt;The Hamburglar &lt;/b&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a href="http://venturebeat.files.wordpress.com/2013/05/hamburger-machine.jpg" target="_blank"&gt;&lt;img class="alignleft size-full wp-image-745368" alt="hamburger machine" src="http://venturebeat.files.wordpress.com/2013/05/hamburger-machine.jpg?w=300&amp;#038;h=224" width="300" height="224" /&gt;&lt;/a&gt;The perfect hamburger requires careful execution of many of components. There is the composition of the ground meat to consider, and then pressure to achieve the right char-to-juice ratio, not to mention the laborious process of slicing up tomatoes and other toppings.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://momentummachines.com/#product" target="_blank"&gt;Momentum Machines&lt;/a&gt; has created a hamburger-making robot that automates the entire process of cooking a hamburger. It can produce around 360 hamburgers an hour, complete with tomatoes, pickles, condiments, or whatever your stomach desires.&lt;/p&gt;
+&lt;p&gt;The machine is intended to replace the line cooks at hamburger restaurants, providing a more efficient, sanitary, and cost-effective alternative. However, I don&amp;#8217;t see any reason why a burger enthusiast with a wide-and-hungry social circle couldn&amp;#8217;t benefit from the product as well. Between Memorial Day, Fourth of July, Labor Day, and global warming, there are plenty of sunny, barbecue-friendly days ahead.&lt;/p&gt;
+&lt;h3&gt;&lt;b&gt;Hot doggin&amp;#8217;&lt;/b&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a href="http://venturebeat.files.wordpress.com/2013/05/screen-shot-2013-07-03-at-1-23-53-pm.png?w=300" target="_blank"&gt;&lt;img class="alignright size-medium wp-image-774499" alt="Screen Shot 2013-07-03 at 1.23.53 PM" src="http://venturebeat.files.wordpress.com/2013/05/screen-shot-2013-07-03-at-1-23-53-pm.png?w=300&amp;#038;h=247" width="300" height="247" /&gt;&lt;/a&gt;If you are more of a hot dog person, don&amp;#8217;t despair. Students across North America are building automatic hot dog machines. I found two examples &amp;#8212; one from the &lt;a href="http://www.mpnnow.com/news/x1180656900/Hotdog-robot-can-cut-the-mustard?photo=0" target="_blank"&gt;Rochester Institute of Technology&lt;/a&gt; and the other from &lt;a href="http://www.youtube.com/watch?v=OlaQGwi121s" target="_blank"&gt;Humber College&lt;/a&gt; in Toronto &amp;#8212; of machines that assemble hot dogs for you.&lt;/p&gt;
+&lt;p&gt;These machines cook the sausages and deliver them gracefully into the soft embrace of the hot dog buns. Once safely ensconced between the fluffy white bread, it guides the hot dogs down the line to the ketchup and mustard station, where they receives a delicate coating of condiments before exiting the machine into your waiting hands.&lt;/p&gt;
+&lt;p&gt;No more rotating the links on the grill, no more setting up an assembling of sandwiches, no more ketchup and mustard stains on your clothing (unless you are a messy eater). Watch the video here&lt;/p&gt;
+&lt;h3&gt;&lt;b&gt;Beer robots&lt;/b&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a href="http://venturebeat.files.wordpress.com/2013/05/beer-robot.jpg?w=300" target="_blank"&gt;&lt;img class="size-medium wp-image-745370 alignleft" alt="beer robot" src="http://venturebeat.files.wordpress.com/2013/05/beer-robot.jpg?w=300&amp;#038;h=217" width="300" height="217" /&gt;&lt;/a&gt;Wouldn&amp;#8217;t it be great if beer cans just dropped out of the sky when you wanted them? Now they can. A South African team has developed a &lt;a href="http://www.youtube.com/watch?v=janur7RJwm0" target="_blank"&gt;SteadiDrone octocopter specifically modified to deliver beers.&lt;/a&gt; You &amp;#8220;order&amp;#8221; using the iPhone app, and the copter drops a parachuted beer to your location. &lt;a href="http://geekologie.com/2013/05/finally-a-useful-robot-the-beer-dropping.php"&gt;&lt;br /&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Alas, this feat of brilliance, innovation, and engineering is currently only available at the Oppikoppi music festival in South Africa  (last year, the delivery drone dropped burritos). However, it is a standard unmanned aerial vehicle (UAV) equipped with a release mechanism, and surely someone on this side of the Atlantic could hack something together in honor of the Fourth. Then you can just sit back, relax, and have a beer literally dropped into your lap. There is no reason to get up at all.&lt;/p&gt;
+&lt;p&gt;If your main concern is achieving the perfect pour, the Japanese have designed a robot that takes care of this element of beer-consumption. &lt;a href="http://www.japantrendshop.com/asahi-beerbot-beer-pouring-robot-p-130.html" target="_blank"&gt;Robocco&lt;/a&gt; is a beer robot that stores and refrigerates six cans, and opens and pours them for you. It has a programmable voice feature, cleaning mode, and a child lock, and resembles R2-D2.  &lt;a href="http://www.japantrendshop.com/asahi-beerbot-beer-pouring-robot-p-130.html"&gt;&lt;br /&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;When their powers combine, your only job is to enjoy your brewski.&lt;/p&gt;
+&lt;h3&gt;&lt;b&gt;CyberQ: &amp;#8216;Only for serious BBQers&amp;#8217;&lt;/b&gt;&lt;/h3&gt;
+&lt;p&gt;Barbecue aficionados may be hesitant to relinquish the cooking portion of Fourth of July festivities to robots. If this is the case, there are still gadgets out there that cut down on time and labor so you can focus on fun.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://venturebeat.files.wordpress.com/2013/05/cyberq-wifi.jpg?w=558" target="_blank"&gt;&lt;img class="wp-image-745372 alignright" alt="cyberq wifi" src="http://venturebeat.files.wordpress.com/2013/05/cyberq-wifi.jpg?w=391&amp;#038;h=260" width="391" height="260" /&gt;&lt;/a&gt;As someone dating a Texan, I have been well-schooled in the diversity of the barbecue cuisine and the importance in getting the temperature and cook-time just right. Brisket is king, but ribs and chicken also play an important role at any barbecue worth its salt in … meat.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.starpulse.com/news/Alan_Danzis/2013/01/04/cyberq_wifi_handson_not_for_rookiesonl?ref_src=news_rss" target="_blank"&gt;With the CyberQ Wi-Fi&lt;/a&gt;, you can monitor the temperature of items cooking on charcoal grills or in a smoker and control it from any Wi-Fi-enabled device. You put a food probe into the food and plug it into the CyberQ unit. The device will display cooking temperatures for up to three different foods, and you can browse the readings for temperatures, times, and status from your smartphone. It even detects when the pit&amp;#8217;s lid is open to &amp;#8220;minimize the temperature disturbance and recover quickly to the set point&amp;#8221; so the pit master can go off and chat with people and not worry that someone will tamper with the grill.&lt;/p&gt;
+&lt;p&gt;Good barbecue takes patience and vigilance, and the CyberQ enables you to adopt the best barbecue practices without sacrificing social time.&lt;/p&gt;
+&lt;h3&gt;&lt;b style="color:#333333;"&gt;Clean up&lt;/b&gt;&lt;/h3&gt;
+&lt;p&gt;Clean up is clearly the worst part of a Fourth of July barbecue fest. The day is over, you probably have a bit if a headache coming on, and yet the grill needs clearing. If you don&amp;#8217;t have minions to do this for you, a &lt;a href="http://www.brookstone.com/motorized-grill-brush-with-steam?bkiid=SubCategory_Outdoor_Living_Grilling___BBQ_Grilling_Tools" target="_blank"&gt;motorized grill brush &lt;/a&gt;with steam-cleaning power makes this unpleasant process less unpleasant. The motor powers away grease and grime without scrubbing or chemicals.&lt;/p&gt;
+&lt;p&gt;You can save your elbow grease for drinking water, which always seems to fall by the wayside at these affairs.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Photos and videos courtesy of : Shutterstock, Oster360/YouTube, geekologie.com, Japanesetrends.com, Uncrate.com&lt;/em&gt;&lt;/p&gt;
+&lt;br /&gt;Filed under: &lt;a href='http://venturebeat.com/category/gadgets/'&gt;Gadgets&lt;/a&gt;, &lt;a href='http://venturebeat.com/category/offbeat/'&gt;OffBeat&lt;/a&gt;  &lt;img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=venturebeat.com&amp;#038;blog=342986&amp;#038;post=745363&amp;#038;subd=venturebeat&amp;#038;ref=&amp;#038;feed=1" width="1" height="1" /&gt;&lt;style type="text/css"&gt;.boilerplate-before .event-boilerplate-mobilebeat {
+width:278px;
+margin:0px 0px 10px 20px;
+padding:10px;
+float:right;
+border:1px solid #e4e4e4;
+font-family: 'Open Sans', sans-serif;
+color:#000;
+}
+.boilerplate-before .event-boilerplate-mobilebeat .logo-date-wrap {
+width:100%;
+display:block;
+float:left;
+margin-bottom:8px;
+}
+.boilerplate-before .event-boilerplate-mobilebeat img {
+float:left;
+}
+.boilerplate-before .event-boilerplate-mobilebeat .date-location {
+float:right;
+font-size:12px;
+line-height:14px;
+text-align:center;
+padding-left:7px;
+padding-top:5px;
+padding-bottom:3px;
+border-left:1px solid #e6e6e6;
+color:#585a5b;
+}
+.boilerplate-before .event-boilerplate-mobilebeat .cta {
+display:block;
+clear:both;
+width:100%;
+border-radius:5px;
+border:1px solid #1864b1;
+color:#fff;
+text-shadow: 0px -1px 0px rgba(0,0,0,0.3);
+text-align:center;
+text-decoration:none;
+font-weight:600;
+font-size:18px;
+line-height:17px;
+padding:4px 0px 6px 0px;
+background: #1f80e4;
+background: -moz-linear-gradient(top,  #1f80e4 0%, #1862ae 100%);
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#1f80e4), color-stop(100%,#1862ae));
+background: -webkit-linear-gradient(top,  #1f80e4 0%,#1862ae 100%);
+background: -o-linear-gradient(top,  #1f80e4 0%,#1862ae 100%);
+background: -ms-linear-gradient(top,  #1f80e4 0%,#1862ae 100%);
+background: linear-gradient(to bottom,  #1f80e4 0%,#1862ae 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1f80e4', endColorstr='#1862ae',GradientType=0 );
+}&lt;/style&gt;</str>
+    <str name="link">http://venturebeat.com/2013/07/04/these-chillin-and-grillin-robots-make-memorial-day-bbqs-more-awesome/</str>
+    <str name="source-link"/>
+    <date name="date">2013-07-04T14:00:34Z</date>
+    <long name="_version_">1439733907232653312</long></doc>
+  <doc>
+    <str name="author">John Koetsier</str>
+    <str name="author_s">John Koetsier</str>
+    <str name="title">NASA releases ‘skyrocket’ comet footage, just in time for July 4th</str>
+    <arr name="category">
+      <str>Business</str>
+      <str>OffBeat</str>
+      <str>Science</str>
+      <str>Comet</str>
+      <str>featured</str>
+      <str>ISON</str>
+      <str>Nasa</str>
+      <str>space</str>
+    </arr>
+    <str name="source">VentureBeat</str>
+    <arr name="source-desc">
+      <str>News About Tech, Money and Innovation</str>
+    </arr>
+    <str name="description">&lt;p&gt;NASA scientists released footage of comet ISON speeding towards the sun at 48,000 miles per hour, just in time for the Fourth of July.&lt;/p&gt;
+&lt;p&gt;Call it celestial fireworks:&lt;/p&gt;
+&lt;p&gt;&lt;span class='embed-youtube' style='text-align:center; display: block;'&gt;&lt;iframe class='youtube-player' type='text/html' width='560' height='345' src='http://www.youtube.com/embed/5YAOaDBx3qo?version=3&amp;#038;rel=1&amp;#038;fs=1&amp;#038;showsearch=0&amp;#038;showinfo=1&amp;#038;iv_load_policy=1&amp;#038;wmode=transparent' frameborder='0'&gt;&lt;/iframe&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;The five-second time-lapse sequence was taken over a 43-minute period on May 8, and shows the comet when it was 403 million miles away, between the orbits of Mars and Jupiter. Over the course of the five seconds, the comet travels 34,000 miles, which NASA says is seven percent of the distance between our Earth and the moon.&lt;/p&gt;
+&lt;p&gt;Of course, the comet is not actually burning, as real fireworks would.&lt;/p&gt;
+&lt;p&gt;Rather, gases and dust are blowing off the comet under the pressure of the solar wind, electrons and protons streaming from the surface of the sun at solar system escape velocities. The phenomenon leads to the odd effect of the comet&amp;#8217;s tail not trailing the comet&amp;#8217;s path of motion, as our terrestrial senses would assume, but consistently blowing off the side of the comet farthest from the sun.&lt;/p&gt;
+&lt;p&gt;NASA says that ISON&amp;#8217;s tail will get brighter and larger as the comet gets closer to the sun and continues to warm up, and should be naked-eye visible by November.&lt;/p&gt;
+&lt;br /&gt;Filed under: &lt;a href='http://venturebeat.com/category/business/'&gt;Business&lt;/a&gt;, &lt;a href='http://venturebeat.com/category/offbeat/'&gt;OffBeat&lt;/a&gt;, &lt;a href='http://venturebeat.com/category/science/'&gt;Science&lt;/a&gt;  &lt;img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=venturebeat.com&amp;#038;blog=342986&amp;#038;post=774734&amp;#038;subd=venturebeat&amp;#038;ref=&amp;#038;feed=1" width="1" height="1" /&gt;</str>
+    <str name="link">http://venturebeat.com/2013/07/03/nasa-releases-skyrocket-comet-footage-just-in-time-for-july-4th/</str>
+    <str name="source-link"/>
+    <date name="date">2013-07-04T03:09:25Z</date>
+    <long name="_version_">1439733907237896192</long></doc>
+  <doc>
+    <str name="author">John Koetsier</str>
+    <str name="author_s">John Koetsier</str>
+    <str name="title">Massive Android flaw lets hackers ‘take over’ and ‘control’ 99% of Android devices (updated)</str>
+    <arr name="category">
+      <str>Business</str>
+      <str>Gadgets</str>
+      <str>Mobile</str>
+      <str>Security</str>
+      <str>Android</str>
+      <str>Bluebox</str>
+      <str>cracker</str>
+      <str>crackers</str>
+      <str>featured</str>
+      <str>hacker</str>
+      <str>mobile security</str>
+      <str>phones</str>
+    </arr>
+    <str name="source">VentureBeat</str>
+    <arr name="source-desc">
+      <str>News About Tech, Money and Innovation</str>
+    </arr>
+    <str name="description">&lt;p&gt;Mobile security company Bluebox said today that it recently discovered a vulnerability in Android that makes any Android device released in the last four years vulnerable to hackers who can read your data, get your passwords, and control any function of your phone, including sending texts, making phone calls, or turning on the camera.&lt;/p&gt;
+&lt;p&gt;That&amp;#8217;s almost &lt;a href="http://venturebeat.com/2013/05/15/900m-android-activations-to-date-google-says/"&gt;900 million Android devices&lt;/a&gt; globally.&lt;/p&gt;
+&lt;p&gt;&amp;#8220;A Trojan application &amp;#8230; has the ability to read arbitrary application data on the device (email, SMS messages, documents, etc.), retrieve all stored account &amp;amp; service passwords,&amp;#8221; Bluebox CTO Jeff Forristal &lt;a href="http://bluebox.com/corporate-blog/bluebox-uncovers-android-master-key/" target="_blank"&gt;posted&lt;/a&gt;. &amp;#8220;It can essentially take over the normal functioning of the phone and control any function.&amp;#8221;&lt;/p&gt;
+&lt;div id="attachment_774698" class="wp-caption alignright" style="width: 224px"&gt;&lt;a href="http://venturebeat.files.wordpress.com/2013/07/exploit.png" target="_blank"&gt;&lt;img class="size-medium wp-image-774698" alt="android exploit" src="http://venturebeat.files.wordpress.com/2013/07/exploit.png?w=224&amp;#038;h=400" width="224" height="400" /&gt;&lt;/a&gt;&lt;div class="vb_image_source"&gt;BlueBox&lt;/div&gt;&lt;p class="wp-caption-text"&gt;Bluebox modifed an Android device manufacturer’s application to obtain access to all permissions on the device.&lt;/p&gt;&lt;/div&gt;
+&lt;p&gt;The vulnerability is due to &amp;#8220;discrepancies&amp;#8221; in how Android apps are approved and verified, Bluebox says, allowing hackers to tamper with application code without changing the app&amp;#8217;s cryptographic signatures. That means that an app &amp;#8212; any app &amp;#8212; that looks perfectly safe and legitimate to an app store, a device, an engineer, or a user actually could actually have malicious code embedded within it.&lt;/p&gt;
+&lt;p&gt;Forristal said the details of the bug were disclosed to Google back in February and that Google has &amp;#8220;notified their device partners.&amp;#8221;&lt;/p&gt;
+&lt;p&gt;The problem, however, is that because of &lt;a href="http://venturebeat.com/2013/06/21/apple-fragmentation-what-fragmentation/"&gt;Android&amp;#8217;s fragmented nature&lt;/a&gt; and the fact that device manufacturers and mobile carriers release Android updates sporadically if at all, many Android devices are not running the latest software and cannot be user-updated.&lt;/p&gt;
+&lt;p&gt;Forristal puts it diplomatically:&lt;/p&gt;
+&lt;p&gt;&amp;#8220;The availability of these updates will widely vary depending upon the manufacturer and model in question.&amp;#8221;&lt;/p&gt;
+&lt;p&gt;If an attacker successfully gains control of an Android device &amp;#8212; and Bluebox will be revealing technical details of the vulnerability at hacker conference &lt;a href="http://www.blackhat.com/us-13/briefings.html#Forristal" target="_blank"&gt;Black Hat USA 2013&lt;/a&gt; in late July &amp;#8212; the hacker essentially gains control of all permissions on the phone or tablet.&lt;/p&gt;
+&lt;p&gt;That&amp;#8217;s a disaster for users, because many Android users, particularly those in Asian and Eastern countries, use the &lt;a href="http://venturebeat.com/2013/06/26/254158-android-apps-are-malicious-as-mobile-malware-skyrockets-614/"&gt;500+ independent Android app stores&lt;/a&gt; that have little or no authentication or verification procedures to ensure passing through their services are legit, forming a perfect opportunity for unscrupulous and technically-inclined thieves and spies to gain control of your phone.&lt;/p&gt;
+&lt;p&gt;I asked Google for comment and received a this terse response from a Google representative:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;We aren&amp;#8217;t commenting.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;I&amp;#8217;m not sure exactly how to interpret that, but I suspect that Google wants this to get as little press as possible while the company scrambles to get as many Android devices updated as possible before the end of July. A source who cannot be identified, however, did say that Google fixed the vulnerability in February and sent the patch to its partners at the beginning of March.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://venturebeat.files.wordpress.com/2013/05/10-android-is-open.jpg" target="_blank"&gt;&lt;img class="alignright size-medium wp-image-733676" alt="10-android-is-open" src="http://venturebeat.files.wordpress.com/2013/05/10-android-is-open.jpg?w=300&amp;#038;h=317" width="300" height="317" /&gt;&lt;/a&gt;That&amp;#8217;s a challenge, because many carriers have installed franken-versions of Android on devices sold two or three years ago with custom user interfaces and crapware pre-installed apps, and may not be able to turn out new, updated versions of their customized Android version quickly &amp;#8230; or have a way to distribute them economically.&lt;/p&gt;
+&lt;p&gt;Users who are unsure of their phone&amp;#8217;s update status or who are unable to update should be extremely cautious when installing apps, Bluebox says, and be sure to identify the publisher of the app before installing it. In addition, it&amp;#8217;s a good idea to only install apps from Google Play, where Google has at least some ability to verify and validate apps &amp;#8212; although that does not provide for perfect safety, Forristal said.&lt;/p&gt;
+&lt;p&gt;&amp;#8220;People should look to upgrade their Android devices and inquire with their device manufacturer to see if they are tackling this issue,&amp;#8221; Forristal told me via email. &amp;#8220;Enterprises need to invest in comprehensive mobile security solutions that protect the integrity of their data against these kind of vulnerabilities.&amp;#8221;&lt;/p&gt;
+&lt;br /&gt;Filed under: &lt;a href='http://venturebeat.com/category/business/'&gt;Business&lt;/a&gt;, &lt;a href='http://venturebeat.com/category/gadgets/'&gt;Gadgets&lt;/a&gt;, &lt;a href='http://venturebeat.com/category/mobile/'&gt;Mobile&lt;/a&gt;, &lt;a href='http://venturebeat.com/category/security/'&gt;Security&lt;/a&gt;  &lt;img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=venturebeat.com&amp;#038;blog=342986&amp;#038;post=774695&amp;#038;subd=venturebeat&amp;#038;ref=&amp;#038;feed=1" width="1" height="1" /&gt;</str>
+    <str name="link">http://venturebeat.com/2013/07/03/massive-android-flaw-allows-hackers-to-take-over-and-control-99-of-android-devices/</str>
+    <str name="source-link"/>
+    <date name="date">2013-07-04T00:23:12Z</date>
+    <long name="_version_">1439733907241041920</long></doc>
+  <doc>
+    <str name="author">Dylan Tweney</str>
+    <str name="author_s">Dylan Tweney</str>
+    <str name="title">Bloggers, you could win a chance to publish a post on VentureBeat</str>
+    <arr name="category">
+      <str>Business</str>
+      <str>Social</str>
+      <str>blogathon</str>
+    </arr>
+    <str name="source">VentureBeat</str>
+    <arr name="source-desc">
+      <str>News About Tech, Money and Innovation</str>
+    </arr>
+    <str name="description">&lt;p&gt;Hackers have their hackathons &amp;#8212; and now bloggers have a blogathon.&lt;/p&gt;
+&lt;p&gt;The first-ever &lt;a href="https://www.viralheat.com/blogathon/" target="_blank"&gt;Viralheat Blogathon&lt;/a&gt; happens August 1 in San Francisco. Put on by social media marketing company &lt;a href="https://www.viralheat.com/" target="_blank"&gt;Viralheat&lt;/a&gt;, it is modeled after the hackathons held in the Bay Area and worldwide, in which developers compete to see who can create the best app or solve the toughest computing problem in a day. But why should programmers have all the fun? Bloggers can be as competitive as any computer hacker.&lt;/p&gt;
+&lt;p&gt;Viralheat&amp;#8217;s Blogathon will pit writers against one another in a battle of wits and writing ability. It will gather community managers, social media managers, and marketers for an evening of learning and friendly competition.&lt;/p&gt;
+&lt;p&gt;As an added incentive, the first place winner’s blog post will be published in VentureBeat. This is a great way to get your writing noticed &amp;#8212; and it&amp;#8217;s a chance to highlight your company, if you can do it in a way that provides value to a wide range of readers.&lt;/p&gt;
+&lt;p&gt;VentureBeat is a media sponsor for the Blogathon, and I&amp;#8217;ll be one of the judges, so you can be sure that I&amp;#8217;ll be looking for the best possible writing.&lt;/p&gt;
+&lt;p&gt;Even if you don&amp;#8217;t want to compete, you can register as a guest; you will be welcome to listen to our great line-up of speakers, socialize, and grab a bite to eat and drink.&lt;/p&gt;
+&lt;p&gt;Who will be there? Judges and speakers from Google, VentureBeat, Marketo, San Francisco State University, and many more.&lt;/p&gt;
+&lt;p&gt;For more information, check out &lt;a href="https://www.viralheat.com/blogathon/" target="_blank"&gt;Viralheat&amp;#8217;s Blogathon website&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;When you&amp;#8217;re ready, &lt;a href="http://viralheatblogathon.eventbrite.com/" target="_blank"&gt;register for the Blogathon on Eventbrite&lt;/a&gt;. And may the best blogger win!&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.viralheat.com/blogathon/" target="_blank"&gt;&lt;img alt="Viralheat's Blogathon promotional banner" src="http://venturebeat.files.wordpress.com/2013/06/blogathon-banner.png?w=558&amp;#038;h=172" width="558" height="172" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;br /&gt;Filed under: &lt;a href='http://venturebeat.com/category/business/'&gt;Business&lt;/a&gt;, &lt;a href='http://venturebeat.com/category/social/'&gt;Social&lt;/a&gt;  &lt;img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=venturebeat.com&amp;#038;blog=342986&amp;#038;post=770453&amp;#038;subd=venturebeat&amp;#038;ref=&amp;#038;feed=1" width="1" height="1" /&gt;</str>
+    <str name="link">http://venturebeat.com/2013/07/03/blogathon/</str>
+    <str name="source-link"/>
+    <date name="date">2013-07-03T23:14:58Z</date>
+    <long name="_version_">1439733907247333376</long></doc>
+  <doc>
+    <str name="author">Rebecca Grant</str>
+    <str name="author_s">Rebecca Grant</str>
+    <str name="title">Going somewhere for Fourth of July? Smart Layover helps you get the most out of quick trips</str>
+    <arr name="category">
+      <str>Entrepreneur</str>
+      <str>Lifestyle</str>
+      <str>Mobile</str>
+      <str>flight</str>
+      <str>layover</str>
+      <str>travel</str>
+    </arr>
+    <str name="source">VentureBeat</str>
+    <arr name="source-desc">
+      <str>News About Tech, Money and Innovation</str>
+    </arr>
+    <str name="description">&lt;div class="post-boilerplate boilerplate-before"&gt;&lt;div class="event-boilerplate-mobilebeat"&gt;
+&lt;div class="logo-date-wrap"&gt;
+
+&lt;a href="http://mobilebeat2013.com" data-vb-ga-outbound="MB2013boilerplateTOP"&gt;&lt;img alt="MobileBeat 2013" src="http://venturebeat.files.wordpress.com/2013/02/mobilebeat-boilerplate.png" /&gt;&lt;/a&gt;
+&lt;div class="date-location"&gt;&lt;strong&gt;July 9-10, 2013&lt;/strong&gt;&lt;br /&gt;
+San Francisco, CA&lt;/div&gt;
+&lt;/div&gt;
+&lt;a class="cta" href="http://mobilebeat2013-MB2013boilerplateTOP.eventbrite.com/" data-vb-ga-outbound="MB2013boilerplateTOP"&gt;Tickets On Sale Now&lt;/a&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;p&gt;If you are flying somewhere for the Fourth of July, &lt;a href="http://www.smartlayover.com" target="_blank"&gt;Smart Layover&lt;/a&gt; can help you cram as much fun as possible into the long weekend.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://venturebeat.com/2013/07/03/going-somewhere-for-4th-of-july-smart-layover-gets-you-the-most-out-of-quick-trips/screen-shot-2013-07-03-at-4-18-17-pm/" rel="attachment wp-att-774641"&gt;&lt;img class="alignright size-medium wp-image-774641" alt="Screen Shot 2013-07-03 at 4.18.17 PM" src="http://venturebeat.files.wordpress.com/2013/07/screen-shot-2013-07-03-at-4-18-17-pm.png?w=300&amp;#038;h=259" width="300" height="259" /&gt;&lt;/a&gt;Smart Layover is a mobile application that wants to turn &amp;#8220;your layover into an adventure.&amp;#8221; Rather than drinking the day away at an airport bar or putting your limbs to sleep in uncomfortable airport chairs, Smart Layover presents you with all the information you might need to put those interim hours to use. You can look at day-use hotel rooms, transportation options, sightseeing activities, and the food, drink, and retail deals for various airport terminals. Smart Layover also provides terminal maps as well as estimated security wait times, and flight alerts and notifications to you don&amp;#8217;t miss your connecting flight.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p style="text-align:center;"&gt;&lt;em&gt;For more about how mobile devices can make our lives easier, check out the &amp;#8220;Digital lifestyle: Curating context in a connected world&amp;#8221; track at VentureBeat&amp;#8217;s &lt;a href="http://venturebeat.com/events/mobilebeat2013/"&gt;MobileBeat conference&lt;/a&gt;, July 9-10.&lt;/em&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;The app also applies to people who have delayed or missed flights, or those who are taking a quick weekend trip and want to optimize their time. As Anthony Bourdain has demonstrated in his new Travel Channel show &lt;em&gt;The Layover&lt;/em&gt;, 24-28 hours is more than enough time to experience a city. Popular layover destinations include New York&amp;#8217;s JFK airport, Amsterdam&amp;#8217;s Airport Schipol, Chicago O&amp;#8217;Hare, Berlin, LAX, and London Heathrow.&lt;/p&gt;
+&lt;p&gt;Smart Layover has partnered Groupon and hotels to deliver special discounts, including exclusive access to reduced day-use hotel rates for when you don&amp;#8217;t need a crash pad for a full night. Last month it announced a pilot program with Hilton Hotels and more partnerships are in the works. This system also benefits hotels that want to fill vacant hotel rooms. There are tons of travel apps out there, but none (that I know of) that focus exclusively on planning short trips like this.&lt;/p&gt;
+&lt;p&gt;Smart Layover was founded in 2012 and is based in Seattle. The app is available on iPhone, Android, Blackberry, and on the Web.&lt;/p&gt;
+&lt;br /&gt;Filed under: &lt;a href='http://venturebeat.com/category/entrepreneur/'&gt;Entrepreneur&lt;/a&gt;, &lt;a href='http://venturebeat.com/category/lifestyle/'&gt;Lifestyle&lt;/a&gt;, &lt;a href='http://venturebeat.com/category/mobile/'&gt;Mobile&lt;/a&gt;  &lt;img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=venturebeat.com&amp;#038;blog=342986&amp;#038;post=774583&amp;#038;subd=venturebeat&amp;#038;ref=&amp;#038;feed=1" width="1" height="1" /&gt;&lt;style type="text/css"&gt;.boilerplate-before .event-boilerplate-mobilebeat {
+width:278px;
+margin:0px 0px 10px 20px;
+padding:10px;
+float:right;
+border:1px solid #e4e4e4;
+font-family: 'Open Sans', sans-serif;
+color:#000;
+}
+.boilerplate-before .event-boilerplate-mobilebeat .logo-date-wrap {
+width:100%;
+display:block;
+float:left;
+margin-bottom:8px;
+}
+.boilerplate-before .event-boilerplate-mobilebeat img {
+float:left;
+}
+.boilerplate-before .event-boilerplate-mobilebeat .date-location {
+float:right;
+font-size:12px;
+line-height:14px;
+text-align:center;
+padding-left:7px;
+padding-top:5px;
+padding-bottom:3px;
+border-left:1px solid #e6e6e6;
+color:#585a5b;
+}
+.boilerplate-before .event-boilerplate-mobilebeat .cta {
+display:block;
+clear:both;
+width:100%;
+border-radius:5px;
+border:1px solid #1864b1;
+color:#fff;
+text-shadow: 0px -1px 0px rgba(0,0,0,0.3);
+text-align:center;
+text-decoration:none;
+font-weight:600;
+font-size:18px;
+line-height:17px;
+padding:4px 0px 6px 0px;
+background: #1f80e4;
+background: -moz-linear-gradient(top,  #1f80e4 0%, #1862ae 100%);
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#1f80e4), color-stop(100%,#1862ae));
+background: -webkit-linear-gradient(top,  #1f80e4 0%,#1862ae 100%);
+background: -o-linear-gradient(top,  #1f80e4 0%,#1862ae 100%);
+background: -ms-linear-gradient(top,  #1f80e4 0%,#1862ae 100%);
+background: linear-gradient(to bottom,  #1f80e4 0%,#1862ae 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1f80e4', endColorstr='#1862ae',GradientType=0 );
+}&lt;/style&gt;</str>
+    <str name="link">http://venturebeat.com/2013/07/03/going-somewhere-for-4th-of-july-smart-layover-gets-you-the-most-out-of-quick-trips/</str>
+    <str name="source-link"/>
+    <date name="date">2013-07-03T23:10:00Z</date>
+    <long name="_version_">1439733907250479104</long></doc>
+  <doc>
+    <str name="author">John Koetsier</str>
+    <str name="author_s">John Koetsier</str>
+    <str name="title">Thanks, Oohay! Inbox spelled backward means $30M for Xobni</str>
+    <arr name="category">
+      <str>Business</str>
+      <str>Cloud</str>
+      <str>Deals</str>
+      <str>featured</str>
+    </arr>
+    <str name="source">VentureBeat</str>
+    <arr name="source-desc">
+      <str>News About Tech, Money and Innovation</str>
+    </arr>
+    <str name="description">&lt;div class="post-boilerplate boilerplate-before"&gt;&lt;div class="event-boilerplate"&gt;
+&lt;div class="logo-date-wrap"&gt;&lt;a href="http://cloudbeat2013.com" data-vb-ga-outbound="CB2013boilerplateTOP"&gt;&lt;img style="margin-top:5px;" alt="CloudBeat 2013" src="http://venturebeat.files.wordpress.com/2013/02/cloudbeat2013-boilerplate.png" /&gt;&lt;/a&gt;
+&lt;div class="date-location"&gt;&lt;strong&gt;Sept. 9 - 10, 2013&lt;/strong&gt;
+San Francisco, CA&lt;/div&gt;
+&lt;/div&gt;
+&lt;a class="cta" href="http://cloudbeat2013-CB2013boilerplateTOP.eventbrite.com/" data-vb-ga-outbound="CB2013boilerplateTOP"&gt;Early Bird Tickets on Sale&lt;/a&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;p&gt;Yahoo has acquired e-mail inbox sanity provider Xobni for $30 million to $40 million. Xobni &lt;a href="http://blog.xobni.com/post/54534193175/oohay" target="_blank"&gt;announced&lt;/a&gt; the acquisition on its blog today &amp;#8212; as well as the fact that it will not accept any premium product purchases going forward.&lt;/p&gt;
+&lt;p&gt;Xobni has provided plugins and apps to manage your e-mail, highlight important messages, filter out spam, and contextualize messages from senders with social data from Facebook and Twitter. The company was started in an MIT dorm, went through Y Combinator, was proclaimed the &amp;#8220;next generation of social networking&amp;#8221; by Bill Gates, and launched Smartr for Gmail, iPhone, and Android in 2011, in which all e-mail analysis was shifted to the Xobni cloud.&lt;/p&gt;
+&lt;p&gt;There are some big changes in store due to the acquisition:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Smartr Contacts for Android is no longer available for download.&lt;/li&gt;
+&lt;li&gt;Xobni for BlackBerry is no longer available for download.&lt;/li&gt;
+&lt;li&gt;Existing Xobni Pro subscribers will get subscription extensions through July 2, 2014, at which point they may need to install a new version.&lt;/li&gt;
+&lt;li&gt;Xobni has no plans to build a version for Outlook 2013.&lt;/li&gt;
+&lt;li&gt;Xobni and Xobni Pro for BlackBerry will work for existing users through to July 2, 2014, after which anything requiring access to the Xobni cloud and social profiles &amp;#8220;may cease to work.&amp;#8221;&lt;/li&gt;
+&lt;li&gt;Xobni Salesforce Gadget and Xobni JIRA Gadget customers&amp;#8217; premium subscriptions will be extended through July 2014.&lt;/li&gt;
+&lt;li&gt;Existing Xobni Enterprise licenses and Xobni for Teams will be extended through July 2, 2014.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Essentially, most products are being extended, but no new clients are being added, and the future gets very murky and cloudy (hah hah) after July 2014.&lt;/p&gt;
+&lt;p&gt;The company announced the acquisition with almost saccharine-sweet I&amp;#8217;ve-just-fallen-in-love terms, saying, &amp;#8220;Did you ever meet someone who truly &amp;#8216;gets&amp;#8217; you? That’s how we feel about Yahoo!&amp;#8221; That&amp;#8217;s very sweet, I&amp;#8217;m sure, for Xobni executives and shareholders, but not so much for customers, who are essentially getting cut off sooner or later.&lt;/p&gt;
+&lt;p&gt;Here&amp;#8217;s the full official announcement:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;It’s a big day here at Xobni. We’ve been acquired by Yahoo!  At this moment, we’re unpacking our boxes from San Francisco and settling in to the new Sunnyvale space at Yahoo! HQ.&lt;/p&gt;
+&lt;p&gt;Before we talk more about that, a word to our current customers: Thank you. We know that Xobni products have woven their way deep into your daily life. Many of our product improvements have come as a result of your enthusiastic, detailed feedback. We often hear customers say “I couldn’t live without Xobni.&amp;#8221; Not to worry — we aren’t pulling the rug out from under you. If you’re using a Xobni product today, you can keep using it. To find out our plan for each product, &lt;a href="https://support.xobni.com/entries/21914995" target="_blank"&gt;please check out the FAQ&lt;/a&gt;. Of course, soon you’ll be able to use Yahoo! products with Xobni goodness baked right in.&lt;/p&gt;
+&lt;p&gt;OK, back to the announcement.  Did you ever meet someone who truly “gets&amp;#8221; you?  That’s how we feel about Yahoo!.  The power within every Xobni product is that it responds to how you communicate.  Every day you demonstrate who and what is important to you.  That can benefit not just your inbox or smartphone, but the many services you use.  Yahoo! gets that, and they want us to use our platform to make many Yahoo! services better for you. This is just the type of gig we’ve been preparing for &lt;a href="http://www.xobni.com/" target="_blank"&gt;throughout our history&lt;/a&gt;.  We look forward to letting the results speak for themselves.  Stay tuned….&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Xobni did not release details on the value of the acquisition, but All Things D &lt;a href="http://allthingsd.com/20130703/yahoo-acquires-xobni-for-upwards-of-30-million-like-atd-said-part-2/#" target="_blank"&gt;reported&lt;/a&gt; that it was between $30 million and 40 million.&lt;/p&gt;
+&lt;p&gt;The big question: What will Yahoo do with Xobni? The new acquisition works with Yahoo rival Google&amp;#8217;s Gmail as well as Apple&amp;#8217;s mail offerings, and though it could improve Yahoo&amp;#8217;s own webmail client, it would lose a lot of users who may refuse to switch from Outlook, Gmail, or other mail providers.&lt;/p&gt;
+&lt;p&gt;This is just the latest in a long string of Yahoo acquisitions under Marissa Mayer. She&amp;#8217;s already snapped up at least eight companies in 2013, including &lt;a href="http://venturebeat.com/2013/05/07/astrid-next-yahoo-ceo-marissa-mayer-is-already-6-for-6-on-acquisition-shutdowns/"&gt;Astrid&lt;/a&gt;, &lt;a href="http://venturebeat.com/2013/05/23/marissa-mayer-and-yahoo-are-on-fire-acquire-yet-another-company-playerscale/"&gt;PlayerScale&lt;/a&gt;, and, of course, &lt;a href="http://venturebeat.com/2013/05/19/yahoo-board-approves-1-1b-all-cash-acquisition-of-tumblr-report/"&gt;Tumblr&lt;/a&gt;. Each of the &lt;a href="http://venturebeat.com/2013/05/07/astrid-next-yahoo-ceo-marissa-mayer-is-already-6-for-6-on-acquisition-shutdowns/"&gt;first six companies Mayer has acquired have been shut down&lt;/a&gt;, though Tumblr won&amp;#8217;t be.&lt;/p&gt;
+&lt;p&gt;But it looks like Xobni will follow the six as Yahoo appears to be basically shutting down its product business.&lt;/p&gt;
+&lt;br /&gt;Filed under: &lt;a href='http://venturebeat.com/category/business/'&gt;Business&lt;/a&gt;, &lt;a href='http://venturebeat.com/category/cloud/'&gt;Cloud&lt;/a&gt;, &lt;a href='http://venturebeat.com/category/deals/'&gt;Deals&lt;/a&gt;  &lt;img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=venturebeat.com&amp;#038;blog=342986&amp;#038;post=774551&amp;#038;subd=venturebeat&amp;#038;ref=&amp;#038;feed=1" width="1" height="1" /&gt;&lt;style type="text/css"&gt;.boilerplate-before .event-boilerplate {
+width:278px;
+margin:0px 0px 10px 20px;
+padding:10px;
+float:right;
+border:1px solid #e4e4e4;
+font-family: 'Open Sans', sans-serif;
+color:#000;
+}
+.boilerplate-before .event-boilerplate .logo-date-wrap {
+width:100%;
+display:block;
+float:left;
+margin-bottom:8px;
+}
+.boilerplate-before .event-boilerplate img {
+float:left;
+}
+.boilerplate-before .event-boilerplate .date-location {
+float:right;
+font-size:12px;
+line-height:14px;
+text-align:center;
+padding-left:7px;
+padding-top:5px;
+padding-bottom:3px;
+border-left:1px solid #e6e6e6;
+}
+.boilerplate-before .event-boilerplate .cta {
+display:block;
+clear:both;
+width:100%;
+border-radius:5px;
+border:1px solid #1864b1;
+color:#fff;
+text-shadow: 0px -1px 0px rgba(0,0,0,0.3);
+text-align:center;
+text-decoration:none;
+font-weight:600;
+font-size:18px;
+line-height:17px;
+padding:4px 0px 6px 0px;
+background: #1f80e4;
+background: -moz-linear-gradient(top,  #1f80e4 0%, #1862ae 100%);
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#1f80e4), color-stop(100%,#1862ae));
+background: -webkit-linear-gradient(top,  #1f80e4 0%,#1862ae 100%);
+background: -o-linear-gradient(top,  #1f80e4 0%,#1862ae 100%);
+background: -ms-linear-gradient(top,  #1f80e4 0%,#1862ae 100%);
+background: linear-gradient(to bottom,  #1f80e4 0%,#1862ae 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1f80e4', endColorstr='#1862ae',GradientType=0 );
+}&lt;/style&gt;</str>
+    <str name="link">http://venturebeat.com/2013/07/03/thanks-oohay-inbox-spelled-backwards-means-30m-for-xobni/</str>
+    <str name="source-link"/>
+    <date name="date">2013-07-03T21:39:01Z</date>
+    <long name="_version_">1439733907253624832</long></doc>
+  <doc>
+    <str name="author">Rebecca Grant</str>
+    <str name="author_s">Rebecca Grant</str>
+    <str name="title">Braintree now processing $10B in payments with deeper expansion into Europe</str>
+    <arr name="category">
+      <str>Business</str>
+      <str>Dev</str>
+      <str>credit card</str>
+      <str>Europe</str>
+      <str>finance</str>
+      <str>payments</str>
+    </arr>
+    <str name="source">VentureBeat</str>
+    <arr name="source-desc">
+      <str>News About Tech, Money and Innovation</str>
+    </arr>
+    <str name="description">&lt;div class="post-boilerplate boilerplate-before"&gt;&lt;div class="event-boilerplate-mobilebeat"&gt;
+&lt;div class="logo-date-wrap"&gt;
+
+&lt;a href="http://mobilebeat2013.com" data-vb-ga-outbound="MB2013boilerplateTOP"&gt;&lt;img alt="MobileBeat 2013" src="http://venturebeat.files.wordpress.com/2013/02/mobilebeat-boilerplate.png" /&gt;&lt;/a&gt;
+&lt;div class="date-location"&gt;&lt;strong&gt;July 9-10, 2013&lt;/strong&gt;&lt;br /&gt;
+San Francisco, CA&lt;/div&gt;
+&lt;/div&gt;
+&lt;a class="cta" href="http://mobilebeat2013-MB2013boilerplateTOP.eventbrite.com/" data-vb-ga-outbound="MB2013boilerplateTOP"&gt;Tickets On Sale Now&lt;/a&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;p&gt;&lt;a href="http://www.braintree.com" target="_blank"&gt;Braintree&lt;/a&gt; is now processing $10 billion in annual payments and continuing to expand its footprint in Europe.&lt;/p&gt;
+&lt;p&gt;Braintree is a payments startup that powers online and mobile credit card transactions for e-commerce vendors. It provides a full-stack payments platform that makes issuing and accepting online payments more accessible and simple than before, when payment processing required extensive infrastructure and resources. Integrating the software allows retailers to process credit cards and international payments, as well as create merchant accounts, enable single click checkout, safely store information, and manage recurring billing.&lt;/p&gt;
+&lt;p&gt;Braintree was founded in 2007 and was one of the earlier tech companies to enter the payments space. It is now active in 40 countries and accepts payments in over 130 currencies. It enables payments for 40 million consumers and works with over 4,000 merchants, including high-profile tech companies like Uber, AirBnB, Hotel Tonight, LivingSocial, Fab.com, TaskRabbit, Rovio, OpenTable, Poshmark, Zimride, and Github.&lt;/p&gt;
+&lt;p&gt;Braintree has made a big push to capture European markets before competitors and clone companies. It expanded the platform internationally in June 2012 and now more than 25 percent of its payments originating outside the U.S. Along with today&amp;#8217;s milestone, Braintree also announced signing popular game developer &lt;a href="http://www.mojang.com" target="_blank"&gt;Mojang&lt;/a&gt; (maker of Minecraft) to its list of clients, as well as fellow European companies Click A Taxi, Hailo, MailMojo, Tictail, and Wrapp.&lt;/p&gt;
+&lt;p&gt;Payments is a hot space right now, and Braintree competes with &lt;a href="http://www.paypal.com" target="_blank"&gt;PayPal&lt;/a&gt;, &lt;a href="http://www.stripe.com" target="_blank"&gt;Stripe&lt;/a&gt;, and now &lt;a href="http://newsroom.mastercard.com/2013/06/27/simplify-commerce-mobile-or-online-its-easy-to-accept-payments/" target="_blank"&gt;Mastercard, which released Simplify Commerce&lt;/a&gt; last week. International markets present major opportunities as more people come online and engage in e-commerce, but the infrastructure for online payments has been slower to catch up. Braintree (and its competitors) offer European startups the tools they need to process payments and expand internationally without investing a significant amount of their own developer resources.&lt;/p&gt;
+&lt;p&gt;Braintree is based in Chicago and has &lt;a href="http://venturebeat.com/2012/10/17/payment-platform-braintree-blossoms-with-35m/"&gt;raised a total of $69 million&lt;/a&gt; from New Enterprise Associates, Accel Partners, RRE Ventures, and Greycroft Partners.&lt;/p&gt;
+&lt;br /&gt;Filed under: &lt;a href='http://venturebeat.com/category/business/'&gt;Business&lt;/a&gt;, &lt;a href='http://venturebeat.com/category/dev/'&gt;Dev&lt;/a&gt;  &lt;img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=venturebeat.com&amp;#038;blog=342986&amp;#038;post=774386&amp;#038;subd=venturebeat&amp;#038;ref=&amp;#038;feed=1" width="1" height="1" /&gt;&lt;style type="text/css"&gt;.boilerplate-before .event-boilerplate-mobilebeat {
+width:278px;
+margin:0px 0px 10px 20px;
+padding:10px;
+float:right;
+border:1px solid #e4e4e4;
+font-family: 'Open Sans', sans-serif;
+color:#000;
+}
+.boilerplate-before .event-boilerplate-mobilebeat .logo-date-wrap {
+width:100%;
+display:block;
+float:left;
+margin-bottom:8px;
+}
+.boilerplate-before .event-boilerplate-mobilebeat img {
+float:left;
+}
+.boilerplate-before .event-boilerplate-mobilebeat .date-location {
+float:right;
+font-size:12px;
+line-height:14px;
+text-align:center;
+padding-left:7px;
+padding-top:5px;
+padding-bottom:3px;
+border-left:1px solid #e6e6e6;
+color:#585a5b;
+}
+.boilerplate-before .event-boilerplate-mobilebeat .cta {
+display:block;
+clear:both;
+width:100%;
+border-radius:5px;
+border:1px solid #1864b1;
+color:#fff;
+text-shadow: 0px -1px 0px rgba(0,0,0,0.3);
+text-align:center;
+text-decoration:none;
+font-weight:600;
+font-size:18px;
+line-height:17px;
+padding:4px 0px 6px 0px;
+background: #1f80e4;
+background: -moz-linear-gradient(top,  #1f80e4 0%, #1862ae 100%);
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#1f80e4), color-stop(100%,#1862ae));
+background: -webkit-linear-gradient(top,  #1f80e4 0%,#1862ae 100%);
+background: -o-linear-gradient(top,  #1f80e4 0%,#1862ae 100%);
+background: -ms-linear-gradient(top,  #1f80e4 0%,#1862ae 100%);
+background: linear-gradient(to bottom,  #1f80e4 0%,#1862ae 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1f80e4', endColorstr='#1862ae',GradientType=0 );
+}&lt;/style&gt;</str>
+    <str name="link">http://venturebeat.com/2013/07/03/braintree-now-processing-10b-in-payments-with-deeper-expansion-into-europe/</str>
+    <str name="source-link"/>
+    <date name="date">2013-07-03T21:20:36Z</date>
+    <long name="_version_">1439733907258867712</long></doc>
+</result>
+</response>
